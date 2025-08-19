@@ -1,0 +1,36 @@
+
+body{
+    background: url(d\ clock.jpg);
+    margin: 0;
+    height: 100vh;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position:center;
+    background-repeat: no-repeat;
+    font-family:  Arial, sans-serif;
+}
+
+#card {
+    background-color: transparent;
+    padding: 40px;
+    text-align: center;
+    transition: all 0.5s ease;
+    margin:0%;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    background: rgba(207, 140, 57, 0.663);
+    font-weight: bold;
+    font-size: 150%;
+
+}
+  
